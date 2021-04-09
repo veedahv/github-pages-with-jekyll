@@ -1,6 +1,6 @@
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2021-04-09
 ---
 
 Hi! My name is Victoria Akpan. I am frontend web developer. 
